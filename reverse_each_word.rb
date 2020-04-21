@@ -1,4 +1,4 @@
-def reverse_each_word_join (string)
+def reverse_each_word_each (string)
   converted_to_arr = string.split(" ")
   reversed_arr = []
   converted_to_arr.each do |string|
