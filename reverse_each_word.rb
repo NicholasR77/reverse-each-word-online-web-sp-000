@@ -16,5 +16,3 @@ def reverse_each_word (string)
   return reversed_arr.join(" ")
 end
 
-reverse_each_word("Hello there, and how are you?")
-reverse_each_word_collect("Hello there, and how are you?")
