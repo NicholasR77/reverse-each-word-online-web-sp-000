@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  converted_string = string.to_ary
+  converted_string = string.split(" ")
   puts converted_string
 end
 
