@@ -11,10 +11,8 @@ end
 def reverse_each_word_collect(string)
   converted_to_arr = string.split(" ")
   converted_to_arr.collect do |string|
-    reversed_arr.string.reverse.join(" ")
+    puts reversed_arr.string.reverse.join(" ")
   end
-  puts converted_to_arr
-  return converted_to_arr
 end
 
 reverse_each_word("Hello there, and how are you?")
