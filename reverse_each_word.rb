@@ -16,3 +16,4 @@ def reverse_each_word_collect(string)
 end
 
 reverse_each_word("Hello there, and how are you?")
+reverse_each_word_collect("Hello there, and how are you?")
